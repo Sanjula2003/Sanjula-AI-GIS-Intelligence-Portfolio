@@ -1,4 +1,17 @@
 [
+
+  {
+    "icon": "🛡️",
+    "title": "AegisAI Defense Command Intelligence System",
+    "description": "AI-powered synthetic defense analytics platform featuring missile trajectory simulation, animated radar intelligence, GIS-based defense monitoring, anomaly detection, DEFCON assessment, and tactical command visualization.",
+    "tags": ["Defense AI", "Radar Analytics", "GIS Intelligence"],
+    "live": "https://aegisai-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/AegisAI-Defense-Command-Intelligence-System",
+    "highlight": true,
+    "keywords": ["defense", "radar", "missile", "ai", "surveillance", "gis"],
+    "chatbotAnswer": "The AegisAI Defense Command Intelligence System is an AI-powered synthetic defense analytics platform that combines missile trajectory simulation, animated tactical radar systems, GIS-based defense intelligence, anomaly detection, impact prediction, and command-level AI threat assessment within a futuristic defense command dashboard."
+  },
+
   {
     "icon": "🚦",
     "title": "Road Accident Hotspot GIS",
