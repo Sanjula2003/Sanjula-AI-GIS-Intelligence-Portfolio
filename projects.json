@@ -1,0 +1,57 @@
+[
+  {
+    "icon": "🚦",
+    "title": "Road Accident Hotspot GIS",
+    "description": "AI-powered GIS dashboard for road accident hotspot monitoring, district risk analytics, and severity prediction.",
+    "tags": ["GIS", "ML", "Streamlit"],
+    "live": "https://sri-lanka-road-accident-hotspot-gis-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/Sri-Lanka-Road-Accident-Hotspot-GIS",
+    "highlight": false,
+    "keywords": ["accident", "road", "traffic", "hotspot"],
+    "chatbotAnswer": "The Road Accident Hotspot GIS system monitors Sri Lankan accident hotspots, district-level risk zones, accident severity patterns, and predicts accident severity using machine learning."
+  },
+  {
+    "icon": "🌧️",
+    "title": "Flood & Rainfall Risk GIS",
+    "description": "Disaster intelligence platform for rainfall monitoring, flood risk analysis, and AI-based flood prediction.",
+    "tags": ["Disaster AI", "GIS", "Prediction"],
+    "live": "https://sri-lanka-flood-rainfall-risk-gis-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/Sri-Lanka-Flood-Rainfall-Risk-GIS",
+    "highlight": false,
+    "keywords": ["flood", "rainfall", "disaster"],
+    "chatbotAnswer": "The Flood & Rainfall Risk GIS system analyzes rainfall intensity, flood-prone districts, river levels, soil saturation, drainage conditions, and predicts flood-risk levels using machine learning."
+  },
+  {
+    "icon": "🐘",
+    "title": "Human–Elephant Conflict GIS",
+    "description": "Wildlife intelligence dashboard for monitoring elephant conflict hotspots and predicting conflict-risk levels.",
+    "tags": ["Wildlife", "GIS", "ML"],
+    "live": "https://sri-lanka-human-elephant-conflict-risk-gis-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/Sri-Lanka-Human-Elephant-Conflict-Risk-GIS",
+    "highlight": false,
+    "keywords": ["elephant", "wildlife", "conflict"],
+    "chatbotAnswer": "The Human–Elephant Conflict GIS system monitors elephant conflict hotspots, crop damage, seasonal sightings, forest-cover conditions, water-source proximity, and predicts conflict-risk levels."
+  },
+  {
+    "icon": "🛰️",
+    "title": "Landslide Terrain Intelligence",
+    "description": "Command-center terrain monitoring platform with heatmap GIS layers, simulation engine, and AI terrain-failure prediction.",
+    "tags": ["Command UI", "Terrain AI", "GIS Heatmap"],
+    "live": "https://sri-lanka-landslide-terrain-intelligence-system-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/Sri-Lanka-Landslide-Terrain-Intelligence-System",
+    "highlight": true,
+    "keywords": ["landslide", "terrain", "geological"],
+    "chatbotAnswer": "The Landslide Terrain Intelligence System is a command-center-style platform for landslide early warning. It includes GIS heatmaps, terrain threat corridors, simulation-based risk analysis, infrastructure vulnerability analysis, and AI terrain-failure prediction."
+  },
+  {
+    "icon": "🌊",
+    "title": "Maritime Surveillance Intelligence",
+    "description": "Flagship coastal surveillance platform for vessel activity monitoring, anomaly detection, and AI maritime threat analysis.",
+    "tags": ["Surveillance", "PyDeck", "Threat AI"],
+    "live": "https://sri-lanka-maritime-surveillance-intelligence-sanjula2003.streamlit.app/",
+    "github": "https://github.com/Sanjula2003/Sri-Lanka-Maritime-Surveillance-Coastal-Intelligence-System",
+    "highlight": true,
+    "keywords": ["maritime", "vessel", "coastal", "surveillance"],
+    "chatbotAnswer": "The Maritime Surveillance Intelligence Platform is the flagship project. It analyzes vessel movement, suspicious maritime behavior, communication anomalies, restricted-zone proximity, coastal threat ranking, and AI-based maritime threat levels."
+  }
+]
